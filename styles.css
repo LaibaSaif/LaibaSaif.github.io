@@ -1,0 +1,17 @@
+/*//coursera assignment*/
+
+/* css/styles.css */
+body {
+ font-family: Arial, sans-serif;
+}
+.content-box {
+ background-color: #ddd;
+ height: 1000px;
+ padding: 20px;
+}
+.menu-section {
+  background-color: #e6e6e6;
+  padding: 30px;
+  margin-bottom: 25px;
+  min-height: 1000px;
+}
